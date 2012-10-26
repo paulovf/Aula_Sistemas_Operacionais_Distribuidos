@@ -1,4 +1,4 @@
-Aula-Web_Services
+Aula-Sstemas-Operacionais-Distribuídos
 =================
 
 ## Instituto Federal do Sudeste de Minas Gerais ##
@@ -10,4 +10,4 @@ Aula-Web_Services
 Disciplina
 ----------
 
-Webservices
+Sistemas Operacionais Distribuídos
